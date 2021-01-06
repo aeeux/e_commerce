@@ -40,7 +40,7 @@ const Product = ({ product }) => {
             </CardActions>
 
         </Card>
-    )
-}
+    );
+};
 
-export default Product
+export default Product;
